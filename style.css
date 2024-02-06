@@ -57,7 +57,7 @@ body
 .home{
     position: relative;
     width: 100%;
-    justify-content: space-between;
+    justify-content: space-evenly;
     height: 100vh;
     display: flex;
     align-items: center;
